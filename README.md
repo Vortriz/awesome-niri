@@ -25,6 +25,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
+- [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
 ## Rices
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of Niri setups, where users can share their configurations and get inspiration from others.
