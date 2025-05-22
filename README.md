@@ -9,7 +9,12 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Contents
 - [Official Resources](#official-resources)
+- [Packages](#packages)
 
 ## Official Resources
-- [Niri Wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) - The official wiki for Niri, containing installation instructions and usage guides.
 - [Niri Matrix Channel](https://matrix.to/#/#niri:matrix.org) - The official Matrix channel for Niri, where you can ask questions and get help from the community.
+- [Niri Wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) - The official wiki for Niri, containing installation instructions and usage guides.
+
+## Packages
+- [Community Packages](https://repology.org/project/niri/packages) - A list of community maintained packages for Niri.
+- [Niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake for Niri, providing a convenient way to install and manage Niri on NixOS.
