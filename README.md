@@ -30,7 +30,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Desktop Environments
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
-- [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment which can be used [under a niri session](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings).
+- [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [Niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings). Each of its modules can also be used in `niri-session`.
 
 ## Rices
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of Niri setups, where users can share their configurations and get inspiration from others.
