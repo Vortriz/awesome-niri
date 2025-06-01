@@ -26,6 +26,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
+- [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
