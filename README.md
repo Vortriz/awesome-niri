@@ -26,11 +26,12 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
+- [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
 ## Desktop Environments
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
-- [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [Niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.
+- [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment which can be used [under a niri session](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings).
 
 ## Rices
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of Niri setups, where users can share their configurations and get inspiration from others.
