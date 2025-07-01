@@ -31,6 +31,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor.
+- [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for Niri, featuring full IPC for shell integrations.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
