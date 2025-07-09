@@ -23,6 +23,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake for Niri, providing a convenient way to install and manage Niri on NixOS.
 
 ## Tools
+- [Avizo](https://github.com/heyjuvi/avizo) - A simple OSD daemon, mainly intended to be used for multimedia keys.
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
