@@ -30,6 +30,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
+- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for Niri, featuring full IPC for shell integrations.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
