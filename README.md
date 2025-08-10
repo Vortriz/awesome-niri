@@ -43,3 +43,6 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Rices
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of Niri setups, where users can share their configurations and get inspiration from others.
+
+## Distributions
+- [Pika OS](https://wiki.pika-os.com/en/home) - PikaOS is a Linux distribution focused on gaming and performance optimization, based on Debian sid, and designed for ease of use and broad compatibility.
