@@ -11,7 +11,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Official Resources](#official-resources)
 - [Packages](#packages)
 - [Tools](#tools)
-- [Desktop Environments](#desktop-environments)
+- [DE Integration](#de-integration)
 - [Distro Integration](#distro-integration)
 - [Rices](#rices)
 
@@ -38,7 +38,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
-## Desktop Environments
+## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
 - [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.
 
