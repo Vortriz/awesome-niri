@@ -12,6 +12,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Packages](#packages)
 - [Tools](#tools)
 - [Desktop Environments](#desktop-environments)
+- [Distro Integration](#distro-integration)
 - [Rices](#rices)
 
 ## Official Resources
