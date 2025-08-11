@@ -25,10 +25,8 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Tools
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
-- [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
-- [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
@@ -37,6 +35,10 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
+
+## Custom Shells
+- [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
+- [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
