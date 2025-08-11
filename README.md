@@ -11,6 +11,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Official Resources](#official-resources)
 - [Packages](#packages)
 - [Tools](#tools)
+- [Custom Shells](#custom-shells)
 - [DE Integration](#de-integration)
 - [Distro Integration](#distro-integration)
 - [Rices](#rices)
@@ -37,6 +38,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
 ## Custom Shells
+- [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 
