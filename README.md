@@ -12,6 +12,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Packages](#packages)
 - [Tools](#tools)
 - [Desktop Environments](#desktop-environments)
+- [Distro Integration](#distro-integration)
 - [Rices](#rices)
 
 ## Official Resources
@@ -40,6 +41,9 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 ## Desktop Environments
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
 - [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [Niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.
+
+## Distro Integration
+- [Pika OS](https://wiki.pika-os.com/en/home) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a [niri edition](https://wiki.pika-os.com/en/home#niri-edition) ISO.
 
 ## Rices
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of Niri setups, where users can share their configurations and get inspiration from others.
