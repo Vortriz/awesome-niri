@@ -42,6 +42,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
+- [Noctalia](https://github.com/Ly-sec/Noctalia) - It may just be another quickshell setup but it won't get in your way.
 
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
