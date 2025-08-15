@@ -11,6 +11,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Official Resources](#official-resources)
 - [Packages](#packages)
 - [Tools](#tools)
+- [Bars and widgets](#bars-and-widgets)
 - [Custom Shells](#custom-shells)
 - [DE Integration](#de-integration)
 - [Distro Integration](#distro-integration)
