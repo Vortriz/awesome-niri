@@ -40,6 +40,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
+- [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on gtk which supports showing information about workspaces, windows names and keyboard layout.
 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
