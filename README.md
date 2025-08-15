@@ -25,9 +25,6 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake for niri, providing a convenient way to install and manage niri on NixOS.
 
 ## Tools
-- [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
-- [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
-- [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
@@ -37,6 +34,11 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces in niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
+
+## Bars and widgets
+- [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
+- [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
+- [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
