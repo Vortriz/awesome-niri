@@ -11,7 +11,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Official Resources](#official-resources)
 - [Packages](#packages)
 - [Tools](#tools)
-- [Bars and widgets](#bars-and-widgets)
+- [Bars and Widgets](#bars-and-widgets)
 - [Custom Shells](#custom-shells)
 - [DE Integration](#de-integration)
 - [Distro Integration](#distro-integration)
@@ -36,11 +36,11 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces in niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
-## Bars and widgets
+## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
-- [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on gtk.
+- [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.
 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
