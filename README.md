@@ -8,7 +8,7 @@ This is a curated list of resources related to niri.
 _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing to this list._
 
 ## Contents
-- [Official Resources](#official-resources)
+- [Help and Discussion](#help-and-discussion)
 - [Packages](#packages)
 - [Tools](#tools)
 - [Bars and Widgets](#bars-and-widgets)
@@ -17,9 +17,12 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Distro Integration](#distro-integration)
 - [Rices](#rices)
 
-## Official Resources
-- [niri Matrix Channel](https://matrix.to/#/#niri:matrix.org) - The official Matrix channel for niri, where you can ask questions and get help from the community.
+## Help and Discussion
+<!--We break the alphbetical order here because we would like to keep the official ones before the community maintained ones-->
 - [niri Wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) - The official wiki for niri, containing installation instructions and usage guides.
+- [niri Matrix Channel](https://matrix.to/#/#niri:matrix.org) - The official Matrix channel for niri, where you can ask questions and get help from the community.
+- [niri Discord server](https://discord.gg/vT8Sfjy7sx) - A community maintained Discord server for niri.
+- [niri subreddit](https://www.reddit.com/r/niri) - A community driven subreddit for niri.
 
 ## Packages
 - [Community Packages](https://repology.org/project/niri/packages) - A list of community maintained packages for niri.
