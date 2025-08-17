@@ -38,7 +38,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
-- [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
+- [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A Rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [i3bar-river](https://github.com/MaxVerevkin/i3bar-river) - A port of i3bar for Wayland compositors, to be used with something like [i3status-rust](https://github.com/greshake/i3status-rust).
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [Ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland GTK bar written in Rust.
@@ -46,9 +46,9 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
-- [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for wayland compositors supporting wayland-layer-shell.
+- [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
-- [Noctalia](https://github.com/Ly-sec/Noctalia) - It may just be another quickshell setup but it won't get in your way.
+- [Noctalia](https://github.com/Ly-sec/Noctalia) - It may just be another Quickshell setup but it won't get in your way.
 
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
