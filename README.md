@@ -41,7 +41,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [i3bar-river](https://github.com/MaxVerevkin/i3bar-river) - A port of i3bar for Wayland compositors, to be used with something like [i3status-rust](https://github.com/greshake/i3status-rust).
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
-- [ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland gtk bar written in Rust.
+- [Ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland GTK bar written in Rust.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.
 
 ## Custom Shells
