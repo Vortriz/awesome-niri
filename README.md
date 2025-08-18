@@ -19,7 +19,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Help and Discussion
 <!--We break the alphbetical order here because we would like to keep the official ones before the community maintained ones-->
-- [niri Wiki](https://github.com/YaLTeR/niri/wiki/Getting-Started) - The official wiki for niri, containing installation instructions and usage guides.
+- [niri Wiki](https://yalter.github.io/niri/) - The official wiki for niri, containing installation instructions and usage guides.
 - [niri Matrix Channel](https://matrix.to/#/#niri:matrix.org) - The official Matrix channel for niri, where you can ask questions and get help from the community.
 - [niri Discord server](https://discord.gg/vT8Sfjy7sx) - A community maintained Discord server for niri.
 - [niri subreddit](https://www.reddit.com/r/niri) - A community driven subreddit for niri.
