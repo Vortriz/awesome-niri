@@ -60,7 +60,6 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Distro Integration
 - [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri/) - CachyOS is a Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
-
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
 
 ## Rices
