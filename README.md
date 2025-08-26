@@ -59,6 +59,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.
 
 ## Distro Integration
+- [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri) - CachyOS is a Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
 
 ## Rices
