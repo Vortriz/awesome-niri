@@ -34,6 +34,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the niri Wayland compositor.
+- [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher for niri — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for niri, featuring full IPC for shell integrations.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
