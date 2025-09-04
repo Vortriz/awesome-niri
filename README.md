@@ -53,6 +53,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
+- [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for niri and Hyprland created with Ignis.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - It may just be another Quickshell setup but it won't get in your way.
