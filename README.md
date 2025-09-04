@@ -1,9 +1,8 @@
 <!--lint disable awesome-heading-->
-# Awesome niri [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<div align=center><img width="1058" height="595" alt="Awesome X niri" src="https://github.com/user-attachments/assets/4e12eacc-d5eb-433f-b27e-b26e04ea23b4" /></div>
+<div align=center><img src="https://awesome.re/badge-flat.svg" /></div>
 
-[niri](https://github.com/YaLTeR/niri) is a scrollable-tiling Wayland compositor.
-
-This is a curated list of resources related to niri.
+[niri](https://github.com/YaLTeR/niri) is a scrollable-tiling Wayland compositor. This is a curated list of resources related to niri.
 
 _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing to this list._
 
