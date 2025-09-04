@@ -56,7 +56,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell for niri and Hyprland created with Ignis.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri.
-- [Noctalia](https://github.com/Ly-sec/Noctalia) - It may just be another Quickshell setup but it won't get in your way.
+- [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell thoughtfully crafted for niri and Hyprland, built with Quickshell.
 
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
