@@ -57,6 +57,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell for niri.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell thoughtfully crafted for niri and Hyprland, built with Quickshell.
+- [Delta Shell](https://github.com/Sinomor/delta-shell) - A desktop shell based on AGS with many features.
 
 ## DE Integration
 - [niri on Cosmic](https://github.com/Drakulix/cosmic-ext-extra-sessions) - A Cosmic extension that allows niri as a session option, allowing you to use niri with the [Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch).
