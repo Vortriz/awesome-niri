@@ -32,6 +32,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality to niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
+- [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for niri.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the niri Wayland compositor.
