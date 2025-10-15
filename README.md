@@ -30,6 +30,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 ## Tools
 - [Anyrun](https://github.com/anyrun-org/anyrun) - A wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
+- [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality to niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for niri.
