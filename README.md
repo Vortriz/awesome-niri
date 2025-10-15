@@ -51,7 +51,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [i3bar-river](https://github.com/MaxVerevkin/i3bar-river) - A port of i3bar for Wayland compositors, to be used with something like [i3status-rust](https://github.com/greshake/i3status-rust).
 - [Ignis](https://github.com/linkfrg/ignis) - A widget framework for building desktop shells, written and configurable in Python.
 - [Ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland GTK bar written in Rust.
-- [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) - Niri taskbar module for Waybar.
+- [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) - Provides a Waybar taskbar module for niri.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.
 - [waybar-niri-windows](https://github.com/calico32/waybar-niri-windows) - A module for Waybar that displays a focus indicator for the current niri workspace.
 
