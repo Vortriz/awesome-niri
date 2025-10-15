@@ -38,6 +38,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the niri Wayland compositor.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher for niri — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for niri, featuring full IPC for shell integrations.
+- [nirinit](https://github.com/amaanq/nirinit) - Session manager for niri that automatically saves and restores your window layout.
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher for niri, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands for the niri.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces in niri.
