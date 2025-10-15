@@ -32,6 +32,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
+- [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager for niri.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality to niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for niri.
