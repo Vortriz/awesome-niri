@@ -58,6 +58,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) - Provides a Waybar taskbar module for niri.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.
 - [waybar-niri-windows](https://github.com/calico32/waybar-niri-windows) - A module for Waybar that displays a focus indicator for the current niri workspace.
+- [niri-autoname-workspaces](https://github.com/justbuchanan/niri-autoname-workspaces) - Display icons for running programs in your bar.
 
 ## Custom Shells
 - [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Quickshell based shell featuring Material 3 design principles, with a heavy focus on functionality and customizability.
