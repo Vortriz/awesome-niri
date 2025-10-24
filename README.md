@@ -54,6 +54,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Scripts
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
+- [niri tweaks](https://github.com/heyoeyo/niri_tweaks) - A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
 
 ## Bars and Widgets
