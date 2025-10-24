@@ -50,6 +50,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [swaytreesave](https://github.com/fabienjuif/swaytreesave) - CLI to save and load your compositors tree/layout.
 - [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window in niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
+- [wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors, with priority support for Hyprland and niri.
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
