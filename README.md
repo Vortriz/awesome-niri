@@ -31,6 +31,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Anyrun](https://github.com/anyrun-org/anyrun) - A wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
 - [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
+- [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager for niri.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality to niri.
