@@ -10,6 +10,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Help and Discussion](#help-and-discussion)
 - [Packages](#packages)
 - [Tools](#tools)
+- [Scripts](#scripts)
 - [Bars and Widgets](#bars-and-widgets)
 - [Custom Shells](#custom-shells)
 - [DE Integration](#de-integration)
@@ -32,13 +33,11 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
-- [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager for niri.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality to niri.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces in niri — similar to "sticky windows" in other compositors.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for niri.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
-- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the niri Wayland compositor.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher for niri — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for niri, featuring full IPC for shell integrations.
@@ -52,6 +51,10 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window in niri.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 - [wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors, with priority support for Hyprland and niri.
+
+## Scripts
+- [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
+- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
