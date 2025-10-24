@@ -28,7 +28,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake for niri, providing a convenient way to install and manage niri on NixOS.
 
 ## Tools
-- [Anyrun](https://github.com/anyrun-org/anyrun) - A wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
+- [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
 - [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
