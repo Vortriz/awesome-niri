@@ -54,7 +54,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Scripts
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
-- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts to enhance the niri experience.
+- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
