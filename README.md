@@ -39,6 +39,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support for niri.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the niri Wayland compositor.
+- [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher for niri — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system for niri, featuring full IPC for shell integrations.
 - [nirinit](https://github.com/amaanq/nirinit) - Session manager for niri that automatically saves and restores your window layout.
