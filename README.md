@@ -58,6 +58,9 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri tweaks](https://github.com/heyoeyo/niri_tweaks) - A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
 
+## Custom Shaders
+- [nirimation](https://github.com/XansiVA/nirimation)
+
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A Rust binary that outputs workspace information from niri-ipc to be consumed by eww.
