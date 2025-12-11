@@ -60,7 +60,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
 
 ## Custom Shaders
-- [nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations in niri.
+- [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations in niri.
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
