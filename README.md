@@ -11,6 +11,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Packages](#packages)
 - [Tools](#tools)
 - [Scripts](#scripts)
+- [Custom Shaders](#custom-shaders)
 - [Bars and Widgets](#bars-and-widgets)
 - [Custom Shells](#custom-shells)
 - [DE Integration](#de-integration)
@@ -58,6 +59,9 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop in niri.
 - [niri tweaks](https://github.com/heyoeyo/niri_tweaks) - A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.
 - [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
+
+## Custom Shaders
+- [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations in niri.
 
 ## Bars and Widgets
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
