@@ -1,0 +1,1 @@
+- [niriswitcher](https://github.com/isaksamsten/niriswitcher) - niri 25.11+ has a built-in window switcher. Also the dev has archived this project.

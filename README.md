@@ -45,7 +45,6 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system featuring full IPC for shell integrations.
 - [nirinit](https://github.com/amaanq/nirinit) - Session manager that automatically saves and restores your window layout.
-- [niriswitcher](https://github.com/isaksamsten/niriswitcher) - An application switcher, with support for workspaces and automatic dark mode.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
 - [pandora](https://github.com/PandorasFox/pandora) - Parallax-scrolling wallpaper daemon for Wayland.
