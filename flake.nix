@@ -3,19 +3,21 @@
 
     inputs = {
         nixpkgs.url = "github:nixos/nixpkgs?ref=nixpkgs-unstable";
+        systems.url = "github:nix-systems/default";
+        awesome-lint = {
+            url = "github:tomodachi94/awesome-lint.nix";
+            inputs.nixpkgs.follows = "nixpkgs";
+            inputs.systems.follows = "systems";
+        };
     };
 
     outputs =
-        { nixpkgs, ... }:
+        { nixpkgs, ... }@inputs:
         let
             inherit (nixpkgs) lib legacyPackages;
 
-            systems = [
-                "aarch64-darwin"
-                "aarch64-linux"
-                "x86_64-darwin"
-                "x86_64-linux"
-            ];
+            systems = import inputs.systems;
+
             forAllSystems = f: (lib.genAttrs systems) (system: f legacyPackages.${system});
         in
         {
@@ -45,7 +47,7 @@
             );
 
             packages = forAllSystems (pkgs: {
-                lint = pkgs.nodePackages.awesome-lint;
+                lint = inputs.awesome-lint.packages.${pkgs.stdenv.hostPlatform.system}.awesome-lint;
             });
 
             devShells = forAllSystems (pkgs: {
