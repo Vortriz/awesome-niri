@@ -34,6 +34,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
+- [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces — similar to "sticky windows" in other compositors.
