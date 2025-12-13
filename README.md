@@ -42,7 +42,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows.
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
-- [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc.
+- [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc[^1].
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system featuring full IPC for shell integrations.
 - [nirinit](https://github.com/amaanq/nirinit) - Session manager that automatically saves and restores your window layout.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands.
@@ -53,6 +53,8 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 - [wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors.
+
+[^1]: As of release 25.11, niri has a built-in window switcher.
 
 ## Scripts
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop.
@@ -90,7 +92,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri on LXQt](https://lxqt-project.org) - LXQt is a lightweight Qt-based desktop environment that allows setting [niri as compositor](https://github.com/lxqt/lxqt/wiki/ConfigWaylandSettings), while its modules can also be used standalone in `niri-session`.
 
 ## Distro Integration
-- [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri) - CachyOS is an Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
+- [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri) - An Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
 - [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - An Omarchy fork that adds support for niri alongside Hyprland, with runtime switching and unified theming.
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
 
