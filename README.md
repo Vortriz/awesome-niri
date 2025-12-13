@@ -45,6 +45,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc[^1].
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system featuring full IPC for shell integrations.
+- [nirimap](https://github.com/alexandergknoll/nirimap) - A minimal workspace minimap overlay.
 - [nirinit](https://github.com/amaanq/nirinit) - Session manager that automatically saves and restores your window layout.
 - [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
