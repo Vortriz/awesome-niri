@@ -1,2 +1,3 @@
 - [niriswitcher](https://github.com/isaksamsten/niriswitcher) - niri 25.11+ has a built-in window switcher. Also the dev has archived this project.
 - [niri-autoname-workspaces](https://github.com/justbuchanan/niri-autoname-workspaces) - archived by the author.
+- [Chameleos](https://github.com/Treeniks/chameleos) - doesn't fit updated guidelines

@@ -31,7 +31,6 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Tools
 - [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
-- [Chameleos](https://github.com/Treeniks/chameleos) - Wayland screen annotation tool.
 - [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
 - [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
