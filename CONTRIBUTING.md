@@ -2,6 +2,9 @@
 
 Make sure your pull request follows these guidelines:
 
+- Include the project only if it satisfies either of these criteria:
+    - Made specifically for niri
+    - Works with other compositors too but interacts uniquely with niri
 - Search through the previous pull requests before making a new one! 🙏
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Title](url) — description.`
