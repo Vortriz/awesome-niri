@@ -36,6 +36,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality.
+- [niri-empty](https://codeberg.org/lunahd/niri-empty) - Execute a shell command when focusing an empty workspace.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces — similar to "sticky windows" in other compositors.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support.
 - [niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) - Dynamic scratchpads.
