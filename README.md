@@ -95,6 +95,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 ## Distro Integration
 - [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri) - An Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
+- [Zirconium OS](https://github.com/zirconium-dev/zirconium) - Zirconium is an opinionated fedora-bootc image that makes use of Niri and DankMaterialShell to create a usable out of the box TWM experience.
 
 ## Rices and OOTB Setups
 - [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of niri setups, where users can share their configurations and get inspiration from others.
