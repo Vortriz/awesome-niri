@@ -27,7 +27,8 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Packages
 - [Community Packages](https://repology.org/project/niri/packages) - A list of community maintained packages for niri.
-- [niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake to conveniently install and manage niri on NixOS.
+- [niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake with cached binary builds and batteries-included modules.
+- [niri-nix](https://codeberg.org/bananad3v/niri-nix) - A Nix flake with cached binary builds and freeform config.
 
 ## Tools
 - [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
