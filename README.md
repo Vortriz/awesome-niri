@@ -110,7 +110,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
 - [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell created with Ignis.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell.
-- [ii on Niri](https://github.com/snowarch/quickshell-ii-niri) - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) modified to work with niri.
+- [iNiR](https://github.com/snowarch/iNiR) - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) modified to work with niri.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - Port of caelestia dots Quickshell setup for niri.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell built with Quickshell.
 - [qml-niri](https://github.com/imiric/qml-niri) - A QML plugin for interacting with niri via its IPC protocol.
