@@ -10,7 +10,12 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [Help and Discussion](#help-and-discussion)
 - [Packages](#packages)
 - [Tools](#tools)
-- [Scripts](#scripts)
+  - [Toolkits](#toolkits)
+  - [Window and Workspace Management](#window-and-workspace-management)
+  - [Session Management](#session-management)
+  - [Wallpapers and Visuals](#wallpapers-and-visuals)
+  - [System Integration and Automation](#system-integration-and-automation)
+  - [Miscellaneous](#miscellaneous)
 - [Custom Shaders](#custom-shaders)
 - [Bars and Widgets](#bars-and-widgets)
 - [Custom Shells](#custom-shells)
@@ -31,39 +36,59 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 - [niri-nix](https://codeberg.org/bananad3v/niri-nix) - A Nix flake with cached binary builds and freeform config.
 
 ## Tools
-- [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
-- [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
-- [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
-- [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
-- [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
+
+### Toolkits
+For bundles of various utilities.
+
 - [niri-companion](https://github.com/dybdeskarphet/niri-companion) - A toolkit that adds extra functionality.
+- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
+- [niri tweaks](https://github.com/heyoeyo/niri_tweaks) - A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.
+- [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands.
+- [piri](https://github.com/Asthestarsfalll/piri) - A collection of plugins making use of niri IPC.
+
+### Window and Workspace Management
+For utilities that assist in managing windows and workspaces.
+
+- [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop.
+- [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
 - [niri-empty](https://codeberg.org/lunahd/niri-empty) - Execute a shell command when focusing an empty workspace.
 - [niri-float-sticky](https://github.com/probeldev/niri-float-sticky) - A utility to make floating windows visible across all workspaces — similar to "sticky windows" in other compositors.
 - [niri-scratchpad](https://github.com/gvolpe/niri-scratchpad) - Scratchpad support.
 - [niri-scratchpad-rs](https://github.com/argosnothing/niri-scratchpad-rs) - Dynamic scratchpads.
-- [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
-- [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows.
-- [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc[^1].
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - A single workspace, tag-based window management system featuring full IPC for shell integrations.
 - [nirimap](https://github.com/alexandergknoll/nirimap) - A minimal workspace minimap overlay.
-- [nirinit](https://github.com/amaanq/nirinit) - Session manager that automatically saves and restores your window layout.
-- [Nirius](https://sr.ht/~tsdh/nirius) - Utility commands.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
-- [pandora](https://github.com/PandorasFox/pandora) - Parallax-scrolling wallpaper daemon for Wayland.
-- [piri](https://github.com/Asthestarsfalll/piri) - A collection of plugins making use of niri IPC.
-- [Stasis](https://github.com/saltnpepper97/stasis) - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
-- [swaytreesave](https://github.com/fabienjuif/swaytreesave) - CLI to save and load your compositors tree/layout.
-- [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window.
-- [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
-- [wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors.
 
 [^1]: As of release 25.11, niri has a built-in window switcher.
 
-## Scripts
-- [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop.
-- [niri tweaks](https://github.com/heyoeyo/niri_tweaks) - A collection of scripts. Notably includes a script which allows tiling N windows before scrolling new ones.
-- [niri-scripts](https://github.com/0xwal/niri-scripts) - A collection of scripts. Notably allows setting wallpaper per workspace.
+### Session Management
+For saving, restoring, and managing user sessions.
+
+- [niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows.
+- [nirinit](https://github.com/amaanq/nirinit) - Session manager that automatically saves and restores your window layout.
+- [swaytreesave](https://github.com/fabienjuif/swaytreesave) - CLI to save and load your compositors tree/layout.
+
+### Wallpapers and Visuals
+For managing wallpapers and other visual elements.
+
+- [hyprlax](https://github.com/sandwichfarm/hyprlax) - Smooth parallax wallpaper daemon.
+- [pandora](https://github.com/PandorasFox/pandora) - Parallax-scrolling wallpaper daemon for Wayland.
+- [wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors.
+
+### System Integration and Automation
+For tools that integrate niri with other system components or automate tasks.
+
+- [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
+- [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
+- [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
+- [Stasis](https://github.com/saltnpepper97/stasis) - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
+- [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window.
+- [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
+
+### Miscellaneous
+- [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
+- [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
 
 ## Custom Shaders
 - [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations.
