@@ -94,6 +94,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations.
 
 ## Bars and Widgets
+- [ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar.
 - [bar-rs](https://github.com/faervan/bar-rs) - A simple status bar, written using iced-rs.
 - [eww-niri-workspaces](https://github.com/druskus20/eww-niri-workspaces) - A Rust binary that outputs workspace information from niri-ipc to be consumed by eww.
 - [i3bar-river](https://github.com/MaxVerevkin/i3bar-river) - A port of i3bar for Wayland compositors, to be used with something like [i3status-rust](https://github.com/greshake/i3status-rust).
