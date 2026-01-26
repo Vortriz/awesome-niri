@@ -87,9 +87,9 @@ For tools that integrate niri with other system components or automate tasks.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
 
 ### Miscellaneous
+- [arbtt-capture-wl](https://github.com/franzos/arbtt-capture-wl) - Time tracker utility [arbtt](https://github.com/nomeata/arbtt) ported to Wayland.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
-- [arbtt-capture-wl](https://github.com/franzos/arbtt-capture-wl) - Use utility to track time with [arbtt](https://github.com/nomeata/arbtt) on niri
 
 ## Custom Shaders
 - [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations.
