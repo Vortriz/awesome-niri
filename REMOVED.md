@@ -2,3 +2,4 @@
 - [niri-autoname-workspaces](https://github.com/justbuchanan/niri-autoname-workspaces) - archived by the author.
 - [Chameleos](https://github.com/Treeniks/chameleos) - doesn't fit updated guidelines.
 - [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - moved to [Showcase](https://github.com/Vortriz/awesome-niri/discussions/31).
+- [niri-tag](https://git.atagen.co/atagen/niri-tag) - 404.
