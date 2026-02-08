@@ -2,7 +2,7 @@
 <div align=center><img width="1058" height="595" alt="Awesome X niri" src="banner.png" /></div>
 <div align=center><img src="https://awesome.re/badge-flat.svg" /></div>
 
-[niri](https://github.com/YaLTeR/niri) is a scrollable-tiling Wayland compositor. This is a curated list of resources related to niri.
+[niri](https://github.com/niri-wm/niri) is a scrollable-tiling Wayland compositor. This is a curated list of resources related to niri.
 
 _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing to this list._
 
@@ -25,7 +25,7 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Help and Discussion
 <!--We break the alphbetical order here because we would like to keep the official ones before the community maintained ones-->
-- [niri Wiki](https://yalter.github.io/niri/) - The official wiki, containing installation instructions and usage guides.
+- [niri Wiki](https://niri-wm.github.io/niri) - The official wiki, containing installation instructions and usage guides.
 - [niri Matrix Channel](https://matrix.to/#/#niri:matrix.org) - The official Matrix channel, where you can ask questions and get help from the community.
 - [niri Discord server](https://discord.gg/vT8Sfjy7sx) - A community maintained Discord server.
 - [niri subreddit](https://www.reddit.com/r/niri) - A community driven subreddit.
@@ -125,5 +125,5 @@ For tools that integrate niri with other system components or automate tasks.
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
 
 ## Rices and OOTB Setups
-- [Setup Showcase](https://github.com/YaLTeR/niri/discussions/325) - A showcase of niri setups, where users can share their configurations and get inspiration from others.
+- [Setup Showcase](https://github.com/niri-wm/niri/discussions/325) - A showcase of niri setups, where users can share their configurations and get inspiration from others.
 - [OOTB setups](https://github.com/Vortriz/awesome-niri/discussions/30) - A collection of out-of-the-box niri configurations that can be easily installed to get a fully functional setup quickly.
