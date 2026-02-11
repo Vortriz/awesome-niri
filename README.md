@@ -81,6 +81,7 @@ For tools that integrate niri with other system components or automate tasks.
 
 - [Anyrun](https://github.com/anyrun-org/anyrun) - A Wayland native krunner-like runner, made with customizability in mind. Provides [niri-focus](https://github.com/anyrun-org/anyrun/blob/master/plugins/niri-focus/README.md) plugin.
 - [IIO-Niri](https://github.com/Zhaith-Izaliel/iio-niri) - Listen to iio-sensor-proxy and update niri output orientation depending on the accelerometer orientation.
+- [kunai](https://github.com/mikkurogue/kunai) - Automatically switch keyboard layouts based on which physical keyboard is being used.
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [nirilayout](https://github.com/calico32/nirilayout) - Quickly switch output configuration between different layouts.
 - [Stasis](https://github.com/saltnpepper97/stasis) - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
