@@ -105,6 +105,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [Ironbar](https://github.com/JakeStanger/ironbar) - A customisable Wayland GTK bar written in Rust.
 - [Niri Taskbar](https://github.com/LawnGnome/niri-taskbar) - Provides a Waybar taskbar module for niri.
 - [niri_window_buttons](https://github.com/adelmonte/niri_window_buttons) - A Waybar module for displaying and managing traditional window buttons.
+- [vibepanel](https://github.com/prankstr/vibepanel) - A GTK4 panel for Wayland with integrated notifications, OSD, and quick settings.
 - [Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar based on GTK.
 - [waybar-niri-windows](https://github.com/calico32/waybar-niri-windows) - A module for Waybar that displays a focus indicator for the current workspace.
 
