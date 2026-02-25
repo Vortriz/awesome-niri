@@ -3,3 +3,4 @@
 - [Chameleos](https://github.com/Treeniks/chameleos) - doesn't fit updated guidelines.
 - [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - moved to [Showcase](https://github.com/Vortriz/awesome-niri/discussions/31).
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - 404.
+- [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - unmaintained.
