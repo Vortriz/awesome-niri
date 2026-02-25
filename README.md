@@ -114,6 +114,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [Delta Shell](https://github.com/Sinomor/delta-shell) - A desktop shell based on AGS with many features.
 - [desktop-shell](https://github.com/hashankur/desktop-shell) - Custom AGS shell for Wayland compositors supporting wayland-layer-shell.
 - [Exo](https://github.com/debuggyo/Exo) - A Material 3 inspired desktop shell created with Ignis.
+- [GPUi Shell](https://github.com/andre-brandao/gpui-shell) - A GPUI based shell written in Rust.
 - [IgnisNiriShell](https://github.com/lost-melody/IgnisNiriShell) - An Ignis based shell.
 - [iNiR](https://github.com/snowarch/iNiR) - [end-4's quickshell config](https://github.com/end-4/dots-hyprland) modified to work with niri.
 - [Noctalia](https://github.com/Ly-sec/Noctalia) - A sleek and minimal desktop shell built with Quickshell.
