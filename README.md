@@ -59,6 +59,7 @@ For utilities that assist in managing windows and workspaces.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc[^1].
 - [nirimap](https://github.com/alexandergknoll/nirimap) - A minimal workspace minimap overlay.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
+- [niri-ror](https://github.com/boomskats/niri-ror) - Focuses an app if it's open or starts a new instance if not. With advanced window matching and multi-instance cycling.
 
 [^1]: As of release 25.11, niri has a built-in window switcher.
 
