@@ -128,6 +128,7 @@ For tools that integrate niri with other system components or automate tasks.
 
 ## Distro Integration
 - [CachyOS](https://wiki.cachyos.org/configuration/desktop_environments/niri) - An Arch Linux based distribution focused around gaming, performance, and being user-friendly. It provides niri as an install option via its installer.
+- [KaOS](https://kaosx.us/desktop/niri) - An independent, built from-scratch Linux distribution, focused on Qt. niri and Noctalia are shipped as the default desktop environment.
 - [Pika OS](https://wiki.pika-os.com/en/home#niri-edition) - PikaOS is a Debian sid based Linux distribution focused on gaming and performance optimization, which provides a niri edition ISO.
 
 ## Rices and OOTB Setups
