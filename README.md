@@ -49,6 +49,7 @@ For bundles of various utilities.
 ### Window and Workspace Management
 For utilities that assist in managing windows and workspaces.
 
+- [miri](https://github.com/MintyDoggo/miri) - A niri extension adding per-workspace tiling layouts, such as Master Stack, similar to hyprland or mangowm.
 - [ndrop](https://github.com/Schweber/ndrop) - Emulate tdrop.
 - [nfsm](https://github.com/gvolpe/nfsm) - Fullscreen manager.
 - [niri-empty](https://codeberg.org/lunahd/niri-empty) - Execute a shell command when focusing an empty workspace.
@@ -60,7 +61,6 @@ For utilities that assist in managing windows and workspaces.
 - [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - A fast task switcher — similar to Alt-Tab known from Windows, Gnome, KDE Plasma etc[^1].
 - [nirimap](https://github.com/alexandergknoll/nirimap) - A minimal workspace minimap overlay.
 - [nsticky](https://github.com/lonerOrz/nsticky) - A utility to make windows visible across all workspaces.
-- [miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts, such as Master Stack, similar to hyprland or mangowm.
 
 [^1]: As of release 25.11, niri has a built-in window switcher.
 
