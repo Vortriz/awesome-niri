@@ -99,6 +99,7 @@ For tools that integrate niri with other system components or automate tasks.
 
 ## Custom Shaders
 - [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations.
+- [shaders](https://github.com/liixini/shaders) - A collection of custom shaders.
 
 ## Bars and Widgets
 - [ashell](https://github.com/MalpenZibo/ashell) - A ready to go Wayland status bar.
