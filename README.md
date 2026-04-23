@@ -97,6 +97,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [niri-cwd](https://github.com/nouritsu/niri-cwd) - A program to print the focused window's working directory.
 - [niri-screen-time](https://github.com/probeldev/niri-screen-time) - A utility that collects information about how much time you spend in each application.
 - [niri-settings](https://github.com/stefonarch/niri-settings) - Basic configuration GUI for niri config.
+- [nirimod](https://github.com/srinivasr/nirimod) - A visual, interactive configuration interface.
 
 ## Custom Shaders
 - [Nirimation](https://github.com/XansiVA/nirimation) - A host for custom shaders to be used as animations.
