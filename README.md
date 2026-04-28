@@ -32,8 +32,10 @@ _Please read the [contributing guidelines](CONTRIBUTING.md) before contributing 
 
 ## Packages
 - [Community Packages](https://repology.org/project/niri/packages) - A list of community maintained packages for niri.
-- [niri Flake](https://github.com/sodiboo/niri-flake) - A Nix flake with cached binary builds and batteries-included modules.
+- [niri-flake](https://github.com/sodiboo/niri-flake) - A Nix flake with cached binary builds and batteries-included modules[^1].
 - [niri-nix](https://codeberg.org/bananad3v/niri-nix) - A Nix flake with cached binary builds and freeform config.
+
+[^1]: The module has not been updated since the 25.08 release and hence is missing configuration for many new features added since then. It is suggested to use `niri-nix` instead which uses a freeform config.
 
 ## Tools
 
