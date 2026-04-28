@@ -4,3 +4,4 @@
 - [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - moved to [Showcase](https://github.com/Vortriz/awesome-niri/discussions/31).
 - [niri-tag](https://git.atagen.co/atagen/niri-tag) - 404.
 - [niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - unmaintained.
+- [niri-switch](https://github.com/Kiki-Bouba-Team/niri-switch) - no longer maintained.
