@@ -87,6 +87,7 @@ For tools that integrate niri with other system components or automate tasks.
 - [NASW](https://github.com/ledati16/nasw) - Automatically switch audio based on active windows.
 - [niri-autoselect-portal](https://codeberg.org/debugloop/niri-autoselect-portal) - Always autoselect the dynamic cast target without any prompts.
 - [nirilayout](https://github.com/calico32/nirilayout) - Quickly switch output configuration between different layouts.
+- [nirimon](https://github.com/stepbrobd/nirimon) - A TUI monitor configuration tool with visual layout, drag-and-drop, and profile management (profile schema compliant with hyprmon).
 - [Stasis](https://github.com/saltnpepper97/stasis) - A modern Wayland idle manager with smart timeouts, media awareness, and app-specific inhibition.
 - [system76-scheduler-niri](https://github.com/Kirottu/system76-scheduler-niri) - A simple daemon to update the foreground process of [system76-scheduler](https://github.com/pop-os/system76-scheduler) based on the focused window.
 - [vim-niri-nav](https://github.com/andergrim/vim-niri-nav) - Seamless navigation between niri windows and (neo)vim splits with the same key bindings.
